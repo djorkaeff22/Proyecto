@@ -1,0 +1,5 @@
+nombre=input("dijite su nombre")
+apellido=input("dijite su apellido: ")
+print("nombre")
+print("apellido")
+print("Mucho gusto"+nombre +apellido)
